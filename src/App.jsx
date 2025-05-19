@@ -3,7 +3,7 @@ import Form from './components/Form'
 
 const App = () => {
   return (
-    <div className='bg-sky-50 min-h-screen flex items-center justify-center'>
+    <div className='bg-sky-50 min-h-screen md:flex md:items-center md:justify-center'>
       <Form/>
     </div>
   )
